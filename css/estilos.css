@@ -15,7 +15,7 @@ h2{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgba(4, 216, 253, 0.911);
+    background-color: rgba(253, 4, 253, 0.911);
     flex-flow: row wrap;
     height: 70px;
     top: 0px;
